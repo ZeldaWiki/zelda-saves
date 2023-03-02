@@ -1,4 +1,4 @@
-Visual Boy Advance save states for the NTSC and PAL versions of *A Link to the Past* for Game Boy Advance.
+Visual Boy Advance save states for the US and EU versions of *A Link to the Past* for Game Boy Advance.
 
 Save states are captured immediately before important state changes, namely an item being obtained.
 
