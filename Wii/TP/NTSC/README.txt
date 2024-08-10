@@ -13,7 +13,7 @@ To use on Wii:
 
 
 To use with Dolphin:
-I dunno, you figure it out.
+Tools -> Import Wii Save, then just select the `data.bin` you want from the collection
 
 
 List of saves and items obtained:
